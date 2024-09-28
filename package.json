@@ -11,12 +11,15 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.2",
+		"@iconify-json/tabler": "^1.2.3",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"sass": "^1.79.4",
 		"svelte": "^4.2.7",
 		"svelte-check": "^4.0.0",
 		"typescript": "^5.0.0",
+		"unplugin-icons": "^0.19.3",
 		"vite": "^5.0.3"
 	},
 	"type": "module"
