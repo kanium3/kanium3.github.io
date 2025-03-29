@@ -7,7 +7,7 @@ import TablerBubbleText from "~icons/tabler/bubble-text";
 
 <main>
     <div class="head">
-        <img src="kanium.webp" alt="Icon" />
+        <enhanced:img src="/static/kanium.webp" alt="Icon" />
         <h1>kanium3</h1>
     </div>
 
